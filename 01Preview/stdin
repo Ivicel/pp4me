@@ -1,0 +1,2 @@
+  501  history | grep history
+  502  history | grep history >> stdin
